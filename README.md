@@ -3,14 +3,14 @@
 
 在任意位置创建一个文件，输入以下内容： 
 
-$python /'your file path'/school-wifi.py$  
+$python /'your\_file\_path'/school-wifi.py$  
 
 $pause$  
 输入完成后保存，将文件命名为jxustCon.bat  
 #注：your_file_path 替换为你保留文件school-wifi.py的路径，不能含有中文，存在编码问题  
 
 将.bat文件移动至以下位置：  
-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup  
+$C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup$    
 该位置对计算机所有用户生效  
 
 重启即可验证是否生效  
