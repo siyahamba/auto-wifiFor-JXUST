@@ -1,9 +1,9 @@
 # auto-wifiFor-JXUST
-江西理工大学校园网自动连接脚本，以下教程基于windows系统。需要电脑上存在python3环境，笔者用的是python 3.10
+江西理工大学校园网自动连接脚本，以下教程基于windows系统。需要电脑上存在python3环境，笔者用的是python 3.10  
 
 在任意位置创建一个文件，输入以下内容： 
 
-$python /'your_file_path'/school-wifi.py$  
+$python /'your file path'/school-wifi.py$  
 
 $pause$  
 输入完成后保存，将文件命名为jxustCon.bat  
